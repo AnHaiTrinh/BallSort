@@ -1,0 +1,1 @@
+{"levelIndex":3,"colorCount":3,"cotCount":5,"cots":[{"hoops":[1,2,0,1]},{"hoops":[0,0,1,2]},{"hoops":[2,0,1,2]},{"hoops":[]},{"hoops":[]}]}
